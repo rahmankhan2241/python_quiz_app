@@ -6,7 +6,7 @@ Quiz = {
     "A": [],
     }
 #comment
-
+#bdkfjdl
 ##
 print("Press 1 to play and 2 for add Question")
 inp = int(input("let me know ur choice: "))
